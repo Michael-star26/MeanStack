@@ -1,0 +1,22 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-star26/MeanStack.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Michael Owino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-star26/MeanStack/issues"
+  },
+  "homepage": "https://github.com/Michael-star26/MeanStack#readme"
+}
