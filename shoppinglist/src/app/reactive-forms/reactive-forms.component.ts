@@ -22,9 +22,11 @@ export class ReactiveFormsComponent{
   users?:any[];
   noUser?:boolean=true
   notSubmitted?:boolean=true
+  submitted?:boolean=false
   count:number=0
   addItem (): void {
     this.notSubmitted=false
+    this.submitted=true
     this.products.push(this.item)
     this.quantities.push(this.quantity)
     this.prices.push(this.price)
